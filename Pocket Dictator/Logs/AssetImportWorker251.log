@@ -1,0 +1,27 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.12f1 (b3b2c6512326) revision 11776710'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1288; Version 2009; 64bit' Language: 'ru' Physical Memory: 3682 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.12f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker251
+-projectPath
+C:/UnityProjects/Pocket Dictator
+-logFile
+Logs/AssetImportWorker251.log
+-srvPort
+52435
+Successfully changed project path to: C:/UnityProjects/Pocket Dictator
+C:/UnityProjects/Pocket Dictator
+Using Asset Import Pipeline V2.
+Assertion failed on expression: 'm_ErrorCode == MDB_MAP_RESIZED || !HasAbortingErrors()'
+
+Asset database transaction committed twice!
+
+Assertion failed on expression: 'errors == MDB_SUCCESS || errors == MDB_NOTFOUND'
+
